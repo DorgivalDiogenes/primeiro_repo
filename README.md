@@ -2,4 +2,4 @@
 Primeiro repositorio 
 
 # Autor
-Dorgival e Raiane
+Dorgival Diogenes e Raiane Vital
